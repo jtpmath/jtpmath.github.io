@@ -1,24 +1,14 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: millennium problems
+description: My solutions to the infamous 7 millenium problems.
 img: assets/img/1.jpg
 importance: 3
 category: fun
 ---
+The Millennium Prize Problems are seven well-known complex mathematical problems selected by the Clay Mathematics Institute in 2000. The Clay Institute has pledged a US$1 million prize for the first correct solution to each problem.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The Clay Mathematics Institute officially designated the title Millennium Problem for the seven unsolved mathematical problems, the Birch and Swinnerton-Dyer conjecture, Hodge conjecture, Navier–Stokes existence and smoothness, P versus NP problem, Riemann hypothesis, Yang–Mills existence and mass gap, and the Poincaré conjecture at the Millennium Meeting held on May 24, 2000. Thus, on the official website of the Clay Mathematics Institute, these seven problems are officially called the Millennium Problems.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
