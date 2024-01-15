@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Jasmine S. Burns
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1st December 1990
     - name: Languages
-      value: English, German
+      value: English, German, Japanese, Spanish, French
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: To be Decided
+      year: 2025
       description:
         - Description 1.
         - Description 2.
@@ -21,12 +21,19 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Masters of Science
+      institution: University of Washington, Seattle
+      year: 2020
       description:
         - Description 1.
         - Description 2.
+    - title: Bachelors of Science
+      institution: Eastern Washington University
+      year: 2016
+      description:
+        - Mathematics minor in Statistics
+        - Economics
+  
 
 - title: Experience
   type: time_table
