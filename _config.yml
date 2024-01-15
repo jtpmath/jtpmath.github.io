@@ -7,8 +7,7 @@ first_name: Jasmine
 middle_name: 
 last_name: Burns
 email: jas@jtpmath.com
-description: #> # the ">" symbol means to ignore newlines until "footer_text:"
-  Academic Website of Jas, the Physicist
+description: Academic Website of Jas, the Physicist
 footer_text: > 
 Email jas@jtpmath.com for an initial consultation and to schedule a session. 
 keywords: jtpmath, mathematics, statistics, economics, teaching, tutoring # add your own keywords or leave empty
