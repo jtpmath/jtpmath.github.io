@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Subscribe to Stop Talking, Start Playing
+Subscribe [here](https://jasthephysicist.blog) to Stop Talking, Start Playing
