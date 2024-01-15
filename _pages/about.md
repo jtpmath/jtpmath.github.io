@@ -1,8 +1,8 @@
 ---
 layout: about
 title: about
-permalink: 
-subtitle:  Hey, I'm Jas, the Physicist: a mathematician, musician and researcher.
+permalink: /
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -19,14 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Sometimes, I'm a hip-hop physicist where I rap about complex concepts in theoretical mathematics in ways that younger generations and even professionals can understand. See, I started off as just an academic, teaching undergrads calculus and the like, but realized that there was a more interesting, creative and engaging way to teach these concepts, so I started writing about them in music. I've remixed songs like WAP by Cardi B and Megan Thee Stallion where I use the concept of water to talk about introductory concepts in Fluid Dynamics. I've also remixed other major songs like Karma by Gabbie Hanna, where I discuss Newton's laws of Motion and the nature of cause and effect. 
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-When I began graduate school, I realized just how important and influential hip-hop is. Not just as a means of communicating ideas and politics, but a method for disseminating information in a way that'll keep students interested. 
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-My goal is to finish this PhD in Mathematics and use the language of music to teach. More people would be able to understand the physics of Albert Einstein if they simply heard it in a format that was accessible to them, and I am capable of making that happen. 
-
-I've been an advocate for underrepresented students in academia for over 10 years, and hip-hop in particular is found throughout all sorts of underrepresented communities. I'm here to inspire a leading generation of research scientists, no matter their background and while economic inequality put me on a path that was most arduous, I'm here to alleviate that burden for others, because there are creative and innovative minds out there, like you reading this webpage!
-
-Beyond all this mathematics and nerdy stuff, I like to write about relationships, love and psychology. You can read about some of my past loves, some theories I have about human behavior and maybe a couple of math posts here or there, however, I mainly talk about adult relationships on my blog [[Meta]physics](https://jasthephysicist.blog). 
-
-If you're curious, you can read my old physics [subreddit](http://reddit.com/r/jasthephysicist).
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
