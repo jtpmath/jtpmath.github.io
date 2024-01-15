@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: 
 subtitle: Hey, I'm Jas, the Physicist: a mathematician, musician and researcher.
 
 profile:
