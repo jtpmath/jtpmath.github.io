@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Jas the Physicist</a>. Mathematician. Researcher. Rapper.
 
 profile:
   align: right
