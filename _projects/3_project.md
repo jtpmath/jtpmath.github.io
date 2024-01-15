@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stop Talking, Start Playing
-description: A Game Theoretic Guide to Relationships
+description: A Game Theoretic Guide to Relationships (Requires Subscription)
 img: assets/img/7.jpg
 redirect: https://jasthephysicist.blog/
 importance: 3
