@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Jas the Physicist</a>. Mathematician. Researcher. Rapper.
+subtitle: Mathematician. Researcher. Rapper.
 
 profile:
   align: right
