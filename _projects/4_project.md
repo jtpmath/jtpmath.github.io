@@ -3,6 +3,7 @@ layout: page
 title: throwawayjtp
 description: my youtube vlog channel
 img:
+redirect: https://youtube.com/@throwawayjtp
 importance: 3
 category: fun
 ---
