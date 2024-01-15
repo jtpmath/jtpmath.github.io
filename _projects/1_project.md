@@ -8,11 +8,25 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Founded in 2018, m.A.A.d Academy is the first science fiction universe-city created from studying and annotating music lyrics; it is both a university of science fiction and a university in science fiction.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+m.A.A.d academy strictly adheres to and practices m.A.A.d Science
+
+<b>Music As Alternate Discourse</b> Multimodal discourse analysis is an approach to discourse which focuses on how meaning is made through the use of multiple modes of communication as opposed to just language. This includes music production, music theory and implications in pop-culture.
+
+<b>Minds Analyzed And Dissected</b> Psycholinguistics or psychology of language is the study of the psychological and neurobiological factors that enable humans to acquire, use, comprehend and produce language.
+
+<b>Mainly Avant-garde Academic Discipline</b> Science fiction studies is the common name for the academic discipline that studies and researches the history, culture, and works of science fiction and, more broadly, speculative fiction.
+
+<b>Musings of an All-Knowing, All-Powerful Diety</b> Reality warping defies all laws of narrative physics. Here, defying semiotic gravity. Semiotics is the study of meaning-making, significance in language and meaningful communication.
+
+<b>My Angry Adolescence Divided</b> Kendrick Lamar's discography and all related artists starring in m.A.A.d TV are the research data. m.A.A.d TV is a music-television sketch comedy with major themes including living in pandemonium, ego-death, fame and discovering your life's purpose.
+
+<b>Me, an Angel on Angel Dust</b> This is a meta-study of Schizophrenia which is a long-term mental disorder involving a breakdown in the relation between thought, emotion, and behavior. This leads to faulty perception, inappropriate actions and feelings, withdrawal from reality and personal relationships into fantasy and delusion.
+
+The writings are designed to provide insight not only into the mind of Kendrick Lamar, but to bend, stretch and expand the mind of the reader so as to elicit divergent cognition which will enhance creativity and no-doubtedly precipitate madness. They say there's a fine line between genius and madness. At m.A.A.d Academy we say, mAAdness is beyond <a href="https://genius.com/">Genius</a>.
+
+Enjoy your stay.
 
     ---
     layout: page
