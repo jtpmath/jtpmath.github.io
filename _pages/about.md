@@ -21,7 +21,7 @@ Most of the time, I teach and tutor topics in mathematics, statistics and econom
 
 When I began graduate school, I realized just how important and influential hip-hop is. Not just as a means of communicating ideas and politics, but a method for disseminating information in a way that'll keep students interested. 
 
-My goal is to finish this PhD in Mathematics and use the language of music to teach. More people would be able to understand the physics of Albert Einstein if they simply heard it in a format that was accessible to them, and I am capable of making that happen. 
+My goal is to finish this PhD in Mathematics and use the language of music to teach. More people would be able to understand the physics of Big Al if they simply heard it in a format that was accessible to them, and I make that happen. 
 
 I've been an advocate for underrepresented students in academia for over 10 years, and hip-hop in particular is found throughout all sorts of underrepresented communities. I'm here to inspire a leading generation of research scientists, no matter their background and while economic inequality put me on a path that was most arduous, I'm here to alleviate that burden for others, because there are creative and innovative minds out there, like you reading this webpage!
 
