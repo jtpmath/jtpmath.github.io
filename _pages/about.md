@@ -27,6 +27,6 @@ My goal is to finish this PhD in Mathematics and use the language of music to te
 
 I've been an advocate for underrepresented students in academia for nearly 10 years, and hip-hop in particular is found throughout all sorts of underrepresented communities. I'm here to inspire a leading generation of research scientists, no matter their background and while economic inequality put me on a path that was most arduous, I'm here to alleviate that burden for others, because there are creative and innovative minds out there, like you reading this webpage!
 
-Beyond all this mathematics and nerdy stuff, I like to write about relationships, love and psychology. Here on medium you will read about some of my past loves, some theories I have about human behavior and maybe a couple of math posts here or there, however, I mainly talk about adult relationships on my blog [jasthephysicist.blog](https://jasthephysicist.blog). 
+Beyond all this mathematics and nerdy stuff, I like to write about relationships, love and psychology. You can read about some of my past loves, some theories I have about human behavior and maybe a couple of math posts here or there, however, I mainly talk about adult relationships on my blog [jasthephysicist.blog](https://jasthephysicist.blog). 
 
 If you're curious, you can read my old physics [subreddit](http://reddit.com/r/jasthephysicist).
