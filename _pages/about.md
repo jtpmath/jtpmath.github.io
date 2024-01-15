@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Jas, the Physicist: mathematician, researcher, rapper.
+subtitle: <a href='#'>Affiliations</a>. Jas, the Physicist - mathematician, researcher, rapper.
 
 profile:
   align: right
