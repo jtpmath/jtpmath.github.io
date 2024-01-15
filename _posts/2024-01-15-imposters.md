@@ -21,7 +21,7 @@ I was so against that, until I realized what learning a language actually is.
 
 To study Kanji, you don't study the radicals, not at first, you just memorize the stroke order. 
 
-So when you're doing a math problem, and you go to one of your classmates or stackexchange, or now, chatgpt to find an answer, don't tell yourself you're stupid. Don't feel guilty for playing the game like everyone else. You're not a loser. You're winning! You are adapting to the environment that was laid out in front of you. The game isn't fair anymore. There is no integrity. It's survival of the fittest. Unfortunately, you can't compete in this mind building competition against other competitors and be full natty. You're going to lose; you have to take performance enhancers. 
+So when you're doing a math problem, and you go to one of your classmates or stackexchange, or now, chatgpt to find an answer, don't tell yourself you're stupid. Don't feel guilty for playing the game like everyone else. You're not a loser. You're winning! You are adapting to the environment that was laid out in front of you. The game isn't fair anymore. There is no integrity. It's survival of the fittest. Unfortunately, you can't compete in this mind-building competition against other competitors and be full natty. You're going to lose; you have to take performance enhancers. 
 
 Some of those includes amphetamines. How many guys in your class were diagnosed with ADHD and now have 10 years of rote memorization stored under their belt because they had the neurochemical discipline to sit still? 
 
