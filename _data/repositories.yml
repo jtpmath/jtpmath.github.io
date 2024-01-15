@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jtpmath
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
+  - jtpmath.github.io
   - mathjax/MathJax
