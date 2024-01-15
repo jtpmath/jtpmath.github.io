@@ -1,6 +1,6 @@
 ---
 layout: page
-title: [Meta]Physics
+title: MetaPhysics
 description: my personal blog (18+)
 img: assets/img/metaphysicspink.jpg
 importance: 4
