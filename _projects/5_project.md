@@ -1,7 +1,7 @@
 ---
 layout: page
 title: millennium problems
-description: My solutions to the infamous 7 millenium problems.
+description: My solutions to the infamous 7 millennium problems.
 img: assets/img/1.jpg
 importance: 3
 category: fun
