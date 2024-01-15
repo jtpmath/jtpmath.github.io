@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Hey, I'm Jas, the Physicist: a mathematician, musician and researcher.
+subtitle: Hey, I'm Jas, the Physicist: a mathematician, musician and researcher.
 
 profile:
   align: right
