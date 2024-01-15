@@ -5,6 +5,7 @@ date: 2024-01-15 16:40:16
 description: a guide to graduate school
 tags: gradschool
 categories: motivation
+giscus_comments: true
 ---
 
 You know what bothered me the most about grad school? You had to cheat to be there. 
