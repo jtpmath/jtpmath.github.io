@@ -19,9 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Most of the time, I teach and tutor topics in mathematics, statistics and economics. 
-
-Sometimes, I rap about complex concepts in theoretical mathematics in ways that younger generations and even professionals can understand. See, I started off as just an academic, teaching undergrads calculus and the like, but realized that there was a more interesting, creative and engaging way to teach these concepts, so I started writing about them in music. I've remixed songs like WAP by Cardi B and Megan Thee Stallion where I use the concept of water to talk about introductory concepts in Fluid Dynamics. I've also remixed other major songs like Karma by Gabbie Hanna, where I discuss Newton's laws of Motion and the nature of cause and effect. 
+Most of the time, I teach and tutor topics in mathematics, statistics and economics. Sometimes, I rap about complex concepts in theoretical mathematics in ways that younger generations and even professionals can understand. See, I started off as just an academic, teaching undergrads calculus and the like, but realized that there was a more interesting, creative and engaging way to teach these concepts, so I started writing about them in music. I've remixed songs like WAP by Cardi B and Megan Thee Stallion where I use the concept of water to talk about introductory concepts in Fluid Dynamics. I've also remixed other major songs like Karma by Gabbie Hanna, where I discuss Newton's laws of Motion and the nature of cause and effect. 
 
 When I began graduate school, I realized just how important and influential hip-hop is. Not just as a means of communicating ideas and politics, but a method for disseminating information in a way that'll keep students interested. 
 
