@@ -3,6 +3,7 @@ layout: page
 title: MetaPhysics
 description: my personal blog (18+)
 img: assets/img/metaphysicspink.jpg
+redirect: https://jasthephysicist.blog
 importance: 4
 category: fun
 ---
