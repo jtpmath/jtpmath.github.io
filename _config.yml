@@ -8,7 +8,7 @@ middle_name:
 last_name: Burns
 email: jas@jtpmath.com
 description: Academic Website of Jas, the Physicist
-footer_text: <center><b<a href="https://outlook.office365.com/owa/calendar/scheduler@NETORGFT15318614.onmicrosoft.com/bookings/">Schedule an online tutoring session with Jas now!</a></b></center> 
+footer_text: <center><b><a href="https://outlook.office365.com/owa/calendar/scheduler@NETORGFT15318614.onmicrosoft.com/bookings/">Schedule an online tutoring session with Jas now!</a></b></center> 
 keywords: jtpmath, mathematics, statistics, economics, teaching, tutoring # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: pluto-01_large.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
