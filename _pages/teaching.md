@@ -20,3 +20,7 @@ nav_order: 6
 <a href="https://www.youtube.com/playlist?list=PLyDvtSibCRwxR1cvaGb3OAWqA6eZy4ZkG">Mathematical Logic</a>: Basic Set Theory, Functions, Cantor-Bernstein, Relations, Propositional Logic, Konig's Lemma, First Order Logic, Compactness, Logical Axioms, Completeness Theorem
 
 <a href="https://www.youtube.com/playlist?list=PLyDvtSibCRwyML3X-LUrgqBhz7ZBulTcy">Linear Algebra</a>: Systems and Matrices/Gaussian Elimination, Reduced Row-Echelon Form and Rank/Inverse of a Square Matrix, Determinant of a Square Matrix/Cofactor Expansion, Vector Spaces in Rn/General Vector Spaces/Subspaces and Spanning Sets, Linear Independence/Basis and Dimension, Change of basis/ Row and column spaces, Linear transformations, Eigenvalues and Eigenvectors, Diagonalization and Similarity, First order systems, Variation of parameters
+
+Differential Equations: Differential equations and mathematical models/Geometric analysis and existence and uniqueness, Separable equations/Linear equations, Other methods of solving first order ODEs, Population modelling/Numerical Methods, Intro to higher order ODEs/General solutions for second order linear ODEs, Homogeneous differential equations with constant coefficients, Non-homogenous ODEs with constant coefficients, Non-homogenous ODEs – method of variation of parameters, Applications and Modelling, Laplace transform and its inverse, Transforms of derivatives and initial value problems
+
+Point-Set Topology: 
