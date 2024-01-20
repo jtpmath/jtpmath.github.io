@@ -6,6 +6,7 @@ img:
 redirect: 
 importance: 4
 category: work
+related_publications: true
 ---
 
 
