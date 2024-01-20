@@ -6,7 +6,10 @@ description: Courses I have taught or tutored in the past.
 nav: true
 nav_order: 6
 ---
-<a href="https://www.youtube.com/playlist?list=PLyDvtSibCRwwYaJrxOf_VZdoVTuBb6H8K">High School Geometry</a>: Tools of Geometry, Reasoning and Proof, Parallel and Perpendicular Lines, Congruent Triangles, Relationships within Triangles, Polygons and Quadrilaterals, Similarity, Right Triangles and Trigonometry, Transformations, Area, Surface Area and Volume, Circles
+
+<a href="https://www.youtube.com/playlist?list=PLyDvtSibCRwwYaJrxOf_VZdoVTuBb6H8K">Geometry</a>: Tools of Geometry, Reasoning and Proof, Parallel and Perpendicular Lines, Congruent Triangles, Relationships within Triangles, Polygons and Quadrilaterals, Similarity, Right Triangles and Trigonometry, Transformations, Area, Surface Area and Volume, Circles
+
+<a href="https://www.youtube.com/playlist?list=PLyDvtSibCRwyAGgYZ1IcFcyX_MVGnd54A">Algebra II</a>: Order of Operations, Solving Linear Equations, Graphing Linear Equations, Solving Linear Inequalities, Absolute Value Inequalities, Graphing Absolute Value Functions, Graphing Quadratic Functions, Characteristics of Functions, Factoring & Quadratics, Polynomial Functions, Exponential & Logarithmic Functions, Composite and Inverse functions, Rational Functions, Solving Rational Equations, Right Triangle Trig, Complete the unit circle, Law of Sines/Cosines, Sequences and Series, Radicals, Permutations, Combinations, Normal Distribution, Variation
 
 <a href="https://www.youtube.com/playlist?list=PLyDvtSibCRwwr9_rRC0fFV13ob6rt9_o6">Precalculus</a>: Functions and Modeling, Trigonometry, Analytic Trigonometry, Complex Numbers and Polar Coordinates, Vectors, Matrices, Systems and Matrices, Analytic Geometry, Sequences and Series, Limits
 
