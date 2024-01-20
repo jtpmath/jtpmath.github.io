@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Hartshorne Algebraic Geometry
-description: My Notes on Hartshorne's Chapter 2: Schemes
+title: Hartshorne's Algebraic Geometry
+description: My notes from Chapter II - Schemes
 img: 
-redirect: 
 importance: 3
 category: work
+related_publications: true
 ---
-
