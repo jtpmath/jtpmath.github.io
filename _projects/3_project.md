@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hartshorne's Algebraic Geometry
+title: Hartshorne Algebraic Geometry
 description: My Notes on Hartshorne's Chapter 2: Schemes
 img: 
 redirect: 
