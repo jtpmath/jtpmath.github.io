@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Measure Theory
-description: My Notes on Terence Tao's Measure Theory Lectures
+title: Tao's Measure Theory
+description: My Notes on Introduction to Measure Theory
 img: assets/img/3.jpg
 importance: 2
 category: work
