@@ -78,13 +78,21 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2013
+      items: 
+        - Dean's Scholarship
+    - year: 2014
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Benjamin A. Gilman International Scholarship
+        - Bonnie and Nate Narrace Economics Scholarship
+        - The Mathematical Contest in Modeling (Honorable Mention)
+    - year: 2015
       items:
-        - Max Planck Medal
+        - Florence and Earle Steward Book Scholarship
+        - McNair Scholar Summer Internship Award
+        - Keepers of the Dream Award - Economics
+        - Keepers of the Dream Award - Mathematics
+
 
 - title: Academic Interests
   type: nested_list
