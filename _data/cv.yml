@@ -71,9 +71,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Data Visualization in Julia
+      year: 2023
+      description: Using Julia to graph complex functions. 
 
 - title: Honors and Awards
   type: time_table
@@ -97,16 +97,16 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Algebraic Geometry
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Sheaves
+        - Complex Projective Manifolds
+    - title: Measure Theory
       items:
-        - Description 1.
-        - Description 2.
+        - Elementary Measures
+        - Lp Spaces
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Writing, Music, Dance
