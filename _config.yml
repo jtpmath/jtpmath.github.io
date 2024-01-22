@@ -269,8 +269,8 @@ display_categories: ["expositions"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Burns]
+  first_name: [Jasmine, S.]
 
   style: apa
   locale: en
