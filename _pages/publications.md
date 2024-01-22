@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Bibliography
-description: These publications are not my own. Stay tuned for mine. 
+description: Here are a few of the resources I used. 
 nav: true
 nav_order: 2
 ---
