@@ -14,13 +14,6 @@
     - title: PhD
       institution: To be Decided
       year: 2025
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Masters of Science
       institution: University of Washington, Seattle
       year: 2020
@@ -109,4 +102,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Writing, Music, Dance
+    - <u>Hobbies:</u> Reading, Writing, Music, Dance
