@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Bibliography
+title: bibliography
 description: Here are a few of the resources I used. 
 nav: true
 nav_order: 2
