@@ -4,7 +4,7 @@ title: Inverse Problem of Galois Theory
 date: 2024-01-22 16:40:16
 description: Revisiting the Inverse Problem, 8 years later
 tags: gradschool
-categories: algebra, analysis, category theory
+categories: algebra analysis category-theory
 featured: true
 giscus_comments: true
 ---
