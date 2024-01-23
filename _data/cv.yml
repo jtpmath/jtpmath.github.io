@@ -96,12 +96,10 @@
       items:
         - Abstract Measure Spaces
         - Lp Spaces
-  contents:
     - title: Category Theory
       items:
         - Derived Categories
         - Category Constructions
-  contents:
     - title: Complex Analysis
       items:
         - Riemann Surfaces
