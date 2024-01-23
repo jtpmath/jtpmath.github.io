@@ -31,42 +31,42 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Instructor
+      institution: Mathnasium of Green Valley
+      year: 2021-2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Work one-on-one with students in K-12 education to motivate them for success. 
+        - Pre-Algebra, Geometry, Algebra 1, Algebra 2, Trigonometry, Pre-Calculus, AP Calculus
+       
+    - title: Teacher
+      institution: Excel Academy of Summerlin
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Hold both in-person and hybrid tutoring sessions for K-12 students. 
+        - Pre-Algebra, Geometry, Algebra 1, Algebra 2, Trigonometry, Pre-Calculus, AP Calculus
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Graduate Teaching Assistant
+      institution: Unversity of Washington
+      year: 2016-2020
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Undergraduate Teaching Assistant, Mathematics
+      institution: Eastern Washington University
+      year: 2013-2015
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Undergraduate Teaching Assistant, Economics
+      institution: Eastern Washington University
+      year: 2013-2015
 
 - title: Open Source Projects
   type: time_table
   contents:
     - title: Data Visualization in Julia
       year: 2023
-      description: Using Julia to graph complex functions. 
+      description: Using Julia to graph Complex Functions and Conformal Mappings
+    - title: Cyclotomic Extensions in Julia
+      year: 2024
+      description: Using Julia to play with Cyclotomic fields and Galois groups
 
 - title: Honors and Awards
   type: time_table
@@ -98,6 +98,17 @@
       items:
         - Abstract Measure Spaces
         - Lp Spaces
+  contents:
+    - title: Category Theory
+      items:
+        - Derived Categories
+        - Category Constructions
+  contents:
+    - title: Complex Analysis
+      items:
+        - Riemann Surfaces
+        - Ergodic Theory
+
 
 - title: Other Interests
   type: list
