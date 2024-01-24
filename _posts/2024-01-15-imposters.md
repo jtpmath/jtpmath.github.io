@@ -9,7 +9,7 @@ featured: true
 giscus_comments: true
 ---
 
-You know what bothered me the most about grad school? You had to cheat to be there. The rapid rate of answering those problems made me think that since I couldn't think of them as quickly as everyone else that meant I would never know them. That haunted me. And I knew people were looking up answers because they couldn't answer the questions I had when I was stuck. But I internalized that as me not being good enough. I always thought that since I learned slower that means I wasn't learning at all. 
+You know what bothered me the most about grad school? I couldn't do it all alone. The rapid rate of answering those problems made me think that since I couldn't think of them as quickly as everyone else that meant I would never know them. That haunted me. But I internalized that as me not being good enough. I always thought that since I learned slower that means I wasn't learning at all. 
 
 That's the rub about standardization, you can and will standardize, and you'll learn the material the way all the rest of them learned: rote memorization. I was so against that, until I realized what learning this mathematical language actually is. 
 
@@ -19,8 +19,8 @@ So when you're solving a math problem, and you go to one of your classmates, mat
 
 Some of those includes amphetamines. How many guys in your class were diagnosed with ADHD and now have 10 years of rote memorization stored under their belt because they had the neurochemical discipline to sit still? 
 
-Your "cheating" is a performance enhancer. Listen here, honey, the game is rigged. You're no less of a mathematician because you plagarized Einstein than Einstein is less of a physicist for plagarizing all the mathematicians and physicists before him. And Albert stole from <i>a lot</i> of people. 
+Asking for help is a type performance enhancer. Listen here, honey, the game is rigged. You're no less of a mathematician because you read Einstein than Einstein is less of a physicist for consulting all the mathematicians and physicists before him. And Albert got help from <i>a lot</i> of people. 
 
 You have the internet at your disposal now. You have an infinite supply of information. But you're not simply a computer, you can parse and interpret this information in ways that no one else can. That's why you're here. 
 
-So when you feel bad about this so-called cheating, remember, everyone else did it too... and you're here to win. 
+So when you feel bad about asking for help, remember, everyone else did it too... and you're here to win. 
