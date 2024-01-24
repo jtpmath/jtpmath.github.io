@@ -1,0 +1,24 @@
+---
+layout: post
+title: Chow's Theorem
+date: 2024-01-24 15:13:16
+description: an exploration into chow's theorem as written in Hartshorne's Algebraic Geometry
+tags: gradschool algebra topology category-theory analysis
+categories: 
+featured: true
+giscus_comments: true
+---
+
+I learned about how to construct Riemann surfaces in Complex Analysis today. We didn't explicitly mention that the maps have to be holomorphic
+as we haven't introduced that term yet, but from what I recall holomorphic means complex differentiable and that means
+analytic in the entire complex plane. We need it to be smooth enough to glue everything together, I'm assuming. 
+
+So anyway, back to Chow's lemma. The last time I saw this was in a class on Schemes, and it was Valentine's day. That's all I remember
+but I wrote notes for it. You're going to flip when you see what I wrote:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HX3H4C_rjog?si=dOree04y6d3ytmPS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+So anyway, after all of that, we're still kind of stuck and this is where we're going to stop for now, until I return to Algebraic Geometry. 
+
+Stay tuned!
+
