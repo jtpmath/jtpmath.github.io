@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Blacksburg, Virgina</p>
+    <p><iframe width="50%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1749231060&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jasthephysicist" title="Jas, the Physicist" target="_blank" style="color: #cccccc; text-decoration: none;">Jas, the Physicist</a> · <a href="https://soundcloud.com/jasthephysicist/jas-the-physicist" title="Jas, the Physicist" target="_blank" style="color: #cccccc; text-decoration: none;">Jas, the Physicist</a></div></p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
