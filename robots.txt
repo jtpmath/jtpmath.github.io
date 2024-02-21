@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jtpmath.github.io/teaching//sitemap.xml
+Sitemap: https://jtpmath.github.io/sitemap.xml
