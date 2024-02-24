@@ -34,6 +34,11 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Mathematics AI Trainer
+      institution: Outlier.ai
+      year: 2024
+      description:
+        - Prompt artifical intelligence with challenging mathematics questions and then correct the AI response for logical consistency, accuracy and clarity
     - title: Instructor
       institution: Mathnasium of Green Valley
       year: 2021-2022
