@@ -24,7 +24,7 @@ Feel like you’re stuck on the topic of limit superior and limit inferior and t
 
 We understand what it means to be limited by the dearth of helpful information as a graduate student. We understand the long and arduous hours it takes perfect a subject that was once seemingly easy to pick up as an undergraduate, and we’re here to help. 
 
-JTPmath is a place by mathematicians for mathematicians. We’re here to talk math, study math, but most of all, we’re here to have fun. Let’s solve an open problem together, let’s study the history of some of the greats: Riemann, Poincare, Hodge and the current literature of some of the most interesting and difficult subjects out there. What do we have to lose… better yet, what do we have to gain? Our minds! 
+JTPmath is a place by mathematicians for mathematicians. We’re here to talk math, study math, but most of all, we’re here to have fun. Let’s solve an open problem together, let’s study the history of some of the greats: Riemann, Poincare, Hodge and the current literature of some of the most interesting researchers out there. What do we have to lose… better yet, what do we have to gain? Our minds! 
 
 
 My research interests are in analytic geometry, algebraic topology and complex analysis. 
