@@ -22,7 +22,7 @@ Beginning as a local after-school volunteer for high school and early undergradu
 
 Feel like you’re stuck on the topic of limit superior and limit inferior and too afraid to ask your math professor? JTPmath is here for that. Want to discuss topological groups for your research in ergodic theory? JTPmath is here for that. Want to have an open discussion on the difficulties of being a graduate student, or need an outlet to openly share your ideas without feeling judged? JTPmath is here precisely for that! 
 
-We understand what it means to be limited by the dearth of helpful information as a graduate student. We understand the long and arduous hours it takes perfect a subject that was once seemingly simply as an undergraduate, and we’re here to help. 
+We understand what it means to be limited by the dearth of helpful information as a graduate student. We understand the long and arduous hours it takes perfect a subject that was once seemingly easy to pick up as an undergraduate, and we’re here to help. 
 
 JTPmath is a place by mathematicians for mathematicians. We’re here to talk math, study math, but most of all, we’re here to have fun. Let’s solve an open problem together, let’s study the history of some of the greats: Riemann, Poincare, Hodge and the current literature of some of the most interesting and difficult subjects out there. What do we have to lose… better yet, what do we have to gain? Our minds! 
 
