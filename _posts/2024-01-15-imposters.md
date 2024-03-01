@@ -17,8 +17,6 @@ To study Kanji (Japanese characters), you don't study the radicals, not at first
 
 So when you're solving a math problem, and you go to one of your classmates, math.stackexchange.com, chatgpt, or <a href="https://outlook.office365.com/owa/calendar/OnlineTutoring@NETORGFT15318614.onmicrosoft.com/bookings/">better yet me!</a> to find an answer, don't tell yourself you're stupid. Don't feel guilty for playing the game like everyone else. You're not a loser. You're winning! You are adapting to the environment that was laid out in front of you.  This isn't a single-player game. It's survival of the fittest. Unfortunately, you can't compete in this mind-building competition against other competitors and be full natty. You're going to lose lest you take performance enhancers. 
 
-Some of those includes amphetamines. How many guys in your class were diagnosed with ADHD and now have 10 years of rote memorization stored under their belt because they had the neurochemical discipline to sit still? 
-
 Asking for help is a type performance enhancer. Listen here, honey, the game is rigged. You're no less of a mathematician because you read Einstein than Einstein is less of a physicist for consulting all the mathematicians and physicists before him. And Albert got help from <i>a lot</i> of people. 
 
 You have the internet at your disposal now. You have an infinite supply of information. But you're not simply a computer, you can parse and interpret this information in ways that no one else can. That's why you're here. 
