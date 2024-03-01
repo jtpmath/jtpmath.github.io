@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're Not the Imposter, They Are
+title: You're Not an Imposter
 date: 2024-01-15 16:40:16
 description: a guide to graduate school
 tags: gradschool
