@@ -8,4 +8,12 @@ nav_order: 3
 horizontal: false
 ---
 
-<hr><hr><hr><hr><hr><hr>
+<style>  
+        hr {  
+            height: 4px;  
+            background-color: white;  
+            border: none;  
+        }  
+    </style>  
+
+<hr>
