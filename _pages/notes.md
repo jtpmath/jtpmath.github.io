@@ -8,12 +8,9 @@ nav_order: 3
 horizontal: false
 ---
 
-<style>  
-        hr {  
-            height: 4px;  
-            background-color: white;  
-            border: none;  
-        }  
-    </style>  
+<h2 class="year">Real Analysis</h2>
 
-<hr>
+ <br />
+  
+  <ul>
+  </ul>
