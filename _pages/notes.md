@@ -8,7 +8,7 @@ nav_order: 3
 horizontal: false
 ---
 
-<h2>real analysis</h2>
+<h2 class="year">real analysis</h2>
 
 <ul style="list-style-type:circle">
   <li>Elementary Measure vs. Jordan Measure</li>
