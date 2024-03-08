@@ -2,7 +2,7 @@
 layout: page
 title: notes
 permalink: /notes/
-description: Notes from lectures, courses, talks and conferences I've attended.
+description: Notes from lectures, courses, talks or conferences.
 nav: true
 nav_order: 3
 horizontal: false
