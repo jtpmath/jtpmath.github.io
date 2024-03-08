@@ -3,8 +3,8 @@ layout: post
 title: Inverse Problem of Galois Theory
 date: 2024-01-22 16:40:16
 description: Revisiting the Inverse Problem, 8 years later
-tags: gradschool
-categories: algebra analysis category-theory
+tags: algebra analysis category-theory
+categories: 
 featured: true
 giscus_comments: true
 ---
