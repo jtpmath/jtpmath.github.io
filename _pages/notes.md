@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 horizontal: false
 ---
-
+<div class="publications">
 <h2 class="year">real analysis</h2>
 
 <ul style="list-style-type:circle">
@@ -21,3 +21,4 @@ horizontal: false
   <li>Introduction to the Lebesgue Integral</li>
   <li>Lebesgue Measurable Functions</li>
 </ul>
+</div>
