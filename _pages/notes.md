@@ -8,10 +8,7 @@ nav_order: 3
 horizontal: false
 ---
 
-<h1>Real Analysis</h1>
-
- <br />
-  
+<h1><align="right">real analysis</align></h1>
 <ul style="list-style-type:circle">
   <li>Elementary Measure vs. Jordan Measure</li>
   <li>Lebesgue Outer Measure</li>
