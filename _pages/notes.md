@@ -11,7 +11,7 @@ horizontal: false
 <h2 class="year">real analysis</h2>
 
 <ul style="list-style-type:circle">
-  <li><a href="https://github.com/jtpmath/jtpmath.github.io/blob/87d00aad0809dd5e702fdb33627f6003daf847c1/assets/pdf/Elementary%20Measure%20vs%20Jordan%20Measure.pdf">Elementary Measure vs. Jordan Measure</a></li>
+  <li><a href="https://jtpmath.com/assets/pdf/Elementary%20Measure%20vs%20Jordan%20Measure.pdf>Elementary Measure vs. Jordan Measure</a></li>
   <li>Lebesgue Outer Measure</li>
   <li>Lebesgue Measure</li>
   <li>Properties of Lebesgue Measurable Sets</li>
