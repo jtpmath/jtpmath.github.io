@@ -13,7 +13,6 @@ profile:
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Our mission here at JTPmath is to educate the most intricate and difficult subjects in professional and research mathematics to curious learners of all ages, from all disciplines and all backgrounds. 
