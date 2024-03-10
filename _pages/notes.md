@@ -21,4 +21,20 @@ horizontal: false
   <li>Introduction to the Lebesgue Integral</li>
   <li>Lebesgue Measurable Functions</li>
 </ul>
+
+<h2 class="year">homological algebra</h2>
+
+<h2 class="year">lie groups and lie algebras</h2>
+
+<h2 class="year">stacks and moduli</h2>
+
+<h2 class="year">Étale cohomology and the weil conjectures</h2>
+
+<h2 class="year">analytic stacks</h2>
+
+
+
+
+
+
 </div>
