@@ -8,7 +8,7 @@ nav_order: 3
 horizontal: false
 ---
 <div class="publications">
-<h2 class="year">real analysis</h2>
+<h2 class="year">measure theory</h2>
 
 <ul style="list-style-type:circle">
   <li><a href="https://jtpmath.com/assets/pdf/Elementary%20Measure%20vs%20Jordan%20Measure.pdf">Elementary Measure vs. Jordan Measure</a></li>
