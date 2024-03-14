@@ -5,7 +5,6 @@ date: 2024-01-15 16:40:16
 description: a guide to graduate school
 tags: gradschool
 categories: motivation
-featured: true
 giscus_comments: true
 ---
 
