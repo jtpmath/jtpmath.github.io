@@ -12,8 +12,8 @@ profile:
   more_info: >
     <p><center>Blacksburg, Virginia</center></p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 social: true # includes social icons at the bottom of the page
 ---
 Our mission here at JTPmath is to educate the most intricate and difficult subjects in professional and research mathematics to curious learners of all ages, from all disciplines and all backgrounds. 
