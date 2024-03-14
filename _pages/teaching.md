@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: A non-exhaustive list of courses offered 
+permalink: /services/
+title: services
+description: A non-exhaustive list of subjects offered 
 nav: true
 nav_order: 6
 ---
