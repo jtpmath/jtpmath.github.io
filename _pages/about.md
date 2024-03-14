@@ -3,7 +3,8 @@ layout: about
 title: about
 permalink: /about/
 subtitle: 
-
+nav: true
+nav_order: 7
 profile:
   align: right
   image: prof_pic.jpg
