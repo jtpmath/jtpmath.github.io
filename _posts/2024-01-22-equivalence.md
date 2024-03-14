@@ -5,7 +5,6 @@ date: 2024-01-22 16:40:16
 description: Revisiting the Inverse Problem, 8 years later
 tags: algebra analysis category-theory
 categories: 
-featured: true
 giscus_comments: true
 ---
 
