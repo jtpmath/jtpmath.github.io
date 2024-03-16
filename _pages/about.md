@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 20240315_150508.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><center>Blacksburg, Virginia</center></p>
