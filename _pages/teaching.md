@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /services/
+permalink: /courses/
 title: services
-description: A non-exhaustive list of subjects offered 
+description: Pre-requisite Courses
 nav: true
 nav_order: 6
 ---
