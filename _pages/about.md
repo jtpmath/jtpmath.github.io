@@ -17,8 +17,6 @@ social: true # includes social icons at the bottom of the page
 ---
 Our mission here at JTPmath is to educate the most intricate and difficult subjects in professional and research mathematics to curious learners of all ages, from all disciplines and all backgrounds. 
 
-Beginning as a local after-school volunteer for high school and early undergraduate math students, JTPmath has extended its reach globally and our topics now include real analysis, complex analysis, point-set-topology, differential geometry, algebraic geometry, category theory, functional analysis, algebraic combinatorics and partial differential equations. 
-
 Stuck on the topic of limit superior and limit inferior? JTPmath is here for that. Want to discuss topological groups for your research in ergodic theory? JTPmath is here for that. Want to have an open discussion on grad student life, or need an outlet to openly share your ideas? JTPmath is here precisely for that! 
 
 We understand what it means to be limited by the dearth of helpful information as a graduate student. We understand the long and arduous hours it takes perfect a subject that was once seemingly easy to pick up as an undergraduate, and we’re here to help. 
