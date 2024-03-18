@@ -26,4 +26,4 @@ JTPmath is a place by mathematicians for mathematicians. We’re here to talk ma
 
 My research interests are in analytic geometry, algebraic topology and complex analysis. 
 
-If you're curious, you can start a thread on [reddit](http://reddit.com/r/jtpmath).
+If you're curious, you can read us on [reddit](http://reddit.com/r/jtpmath).
