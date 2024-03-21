@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: future research implementing course knowledge
+description: future research directions leveraging knowledge taught from these courses
 nav: true
 nav_order: 2
 horizontal: false
