@@ -1,6 +1,6 @@
 ---
 layout: faq
-title: frequently asked questions
+title: faq
 permalink: /faq/
 nav: true
 nav_order: 7
