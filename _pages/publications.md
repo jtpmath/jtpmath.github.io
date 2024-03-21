@@ -4,7 +4,7 @@ permalink: /publications/
 title: bibliography
 description: database of books, articles, websites used
 nav: true
-nav_order: 2
+nav_order: 6
 ---
 
 <!-- _pages/publications.md -->
