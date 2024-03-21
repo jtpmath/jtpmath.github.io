@@ -1,10 +1,10 @@
 ---
 layout: page
-title: notes
-permalink: /notes/
-description: Notes from lectures, courses, talks or conferences.
+title: subjects
+permalink: /subjects/
+description: current lectures (in development)
 nav: true
-nav_order: 3
+nav_order: 6
 horizontal: false
 ---
 <div class="publications">
