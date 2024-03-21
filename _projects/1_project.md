@@ -11,22 +11,22 @@ giscus_comments: true
 <body> 
     <table style="width:100%"> 
         <tr> 
-            <th>Lecture Number</th> 
+            <th>Lectures</th> 
             <th>Topics</th> 
             <th>References</th> 
         </tr> 
         <tr> 
-            <td>1</td> 
+            <td>1. [video] -- [notes]</td> 
             <td>limit superior and limit inferior</td> 
             <td>[reference]</td> 
         </tr> 
         <tr> 
-            <td>2</td> 
+            <td>2. [video] -- [notes]</td> 
             <td>limits and colimits in the category of measure spaces</td> 
             <td>[reference]</td> 
         </tr> 
         <tr> 
-            <td>3</td> 
+            <td>3. [video] -- [notes]</td> 
             <td>review of euclidean geometry</td> 
             <td>[reference]</td> 
         </tr> 
