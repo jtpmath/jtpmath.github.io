@@ -6,7 +6,6 @@ img: assets/img/ElementaryJordanMeasures.jpg
 importance: 1
 permalink: /measuretheory/
 giscus_comments: true
-related_publications: true
 ---
   
 <body> 
