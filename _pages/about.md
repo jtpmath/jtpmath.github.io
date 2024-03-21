@@ -23,7 +23,7 @@ Eventually I got to ring theory, where kernels began to make sense. It probably 
 
 Eventually I went on to take advanced calculus. I didn't make the mistake of quitting, but I was stuck on the word "manifold." I didn't see the word manifold until a couple of years later when I finally got to graduate school. I should have just started with differential topology. 
 
-Now I have this website, where I can start/end with whatever subject I want, and translate between whatever field I want, without someone lamenting "I was never good at math; I'm good at English", "I like algebra it makes sense, but analysis people think like this" or "sorry I only do applied mathematics I have no idea what a scheme is." Now there is no box to constrain my thought process and no box to constrain yours!
+Now I have this website, where I can start/end with whatever subject I want (independent of the choice of basepoint), and translate between whatever field I want (under a specific measure), without someone lamenting "I only stay in this category!" Now there is no box to constrain my thought process and no set to constrain yours!
 
 But if you *had* to assign a label: my research interests are in analytic geometry, algebraic topology and complex analysis. 
 
