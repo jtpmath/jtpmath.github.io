@@ -3,8 +3,7 @@ layout: page
 permalink: /courses/
 title: services
 description: Pre-requisite Courses
-nav: true
-nav_order: 6
+nav: false
 ---
 
 <a href="https://www.youtube.com/playlist?list=PLyDvtSibCRwwYaJrxOf_VZdoVTuBb6H8K">Geometry</a>: Tools of Geometry, Reasoning and Proof, Parallel and Perpendicular Lines, Congruent Triangles, Relationships within Triangles, Polygons and Quadrilaterals, Similarity, Right Triangles and Trigonometry, Transformations, Area, Surface Area and Volume, Circles
