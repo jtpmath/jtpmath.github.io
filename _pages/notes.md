@@ -4,7 +4,7 @@ title: subjects
 permalink: /subjects/
 description: current lectures (in development)
 nav: true
-nav_order: 6
+nav_order: 2
 horizontal: false
 ---
 <div class="publications">
