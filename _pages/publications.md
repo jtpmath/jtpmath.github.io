@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: bibliography
-description: database of books used
+description: database of books, articles, websites used
 nav: true
 nav_order: 2
 ---
