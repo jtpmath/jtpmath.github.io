@@ -19,7 +19,7 @@ My mission at JTPmath is to solve open problems in mathematics and display the s
 
 My interest in mathematics started when I failed linear algebra the first time. I was stuck on the word "kernel" for about two years after that. I just couldn't wrap my head around why they called it a kernel, so I knew I had to keep investigating. 
 
-Eventually I got to ring theory, where kernels began to make sense. It probably would have made even more sense if I would have seen group theory before linear algebra, or even at the same time, and then went on to rings, and then modules, and then vector spaces... actually, I should have just started with abelian categories. 
+Eventually I got to ring theory, where kernels began to make sense. It probably would have made even more sense if I would have seen group theory before linear algebra - or even at the same time - and then went on to rings, and then modules, and then vector spaces... actually, I should have just started with abelian categories. 
 
 Eventually I went on to take multivariable calculus. My school called it advanced calculus. I didn't make the mistake of letting myself fail this time, but I was stuck on the word manifold. I didn't see the word manifold until a couple of years later when I finally got to graduate school. I should have just started with differential topology. 
 
