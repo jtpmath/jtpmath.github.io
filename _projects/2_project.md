@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tao's Measure Theory
-description: My Notes on Introduction to Measure Theory
+title: 
+description: measure theory as it is explained by professor Tao
 img: assets/img/3.jpg
 importance: 2
 category: work
