@@ -1,10 +1,10 @@
 ---
 layout: page
 title: millennium problems
-description: My musings on the infamous 7 millennium problems.
+description: exploration into open problems of mathematics
 img: assets/img/1.jpg
 importance: 6
-category: work
+
 ---
 The Millennium Prize Problems are seven well-known complex mathematical problems selected by the Clay Mathematics Institute in 2000. The Clay Institute has pledged a US$1 million prize for the first correct solution to each problem.
 
