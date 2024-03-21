@@ -8,9 +8,6 @@ permalink: /measuretheory/
 giscus_comments: true
 related_publications: true
 ---
-
-<!DOCTYPE html> 
-<html> 
   
 <body> 
     <table style="width:100%"> 
@@ -36,5 +33,3 @@ related_publications: true
         </tr> 
     </table> 
 </body> 
-  
-</html>
