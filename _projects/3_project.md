@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Hartshorne's Algebraic Geometry
-description: My notes from Chapter II - Schemes
-img: 
+title: algebraic geometry
+permalink: \schemes\
+description: schemes and spotting them in the wild
+img: assests\img\Schemes.jpg
 importance: 3
 category: work
 giscus_comments: true
