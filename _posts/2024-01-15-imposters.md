@@ -7,17 +7,16 @@ tags: gradschool
 categories: motivation
 giscus_comments: true
 ---
+There is no one way to do mathematics. There is no one way to think about mathematics. There is no specific rate to solving a mathematical problem. There is no standard way of doing mathematics. THere is no standard way of learning mathematics. There is no standard way of thinking about mathematics. You want proof? 
 
-You know what bothered me the most about grad school? I couldn't do it all alone. The rapid rate of answering those problems made me think that since I couldn't think of them as quickly as everyone else that meant I would never know them. That haunted me. But I internalized that as me not being good enough. I always thought that since I learned slower that means I wasn't learning at all. 
+If I say the word "normal" to you, what mathematical object comes to mind? What makes this object "normal?"
 
-That's the rub about standardization, you can and will standardize, and you'll learn the material the way all the rest of them learned: rote memorization. I was so against that, until I realized what learning this mathematical language actually is. 
+If I say the word "simple", "irreducible", "constructible" and now even the word "heart"... what comes to mind? 
 
-To study Kanji (Japanese characters), you don't study the radicals, not at first, you just memorize the stroke order. 
+The point I'm trying to make is this: there is no standard. So when you fail a standardized test, and you're told that you fall two standard deviations below average I want you to take a deep breath, you're going to be quite alright. 
 
-So when you're solving a math problem, and you go to one of your classmates, math.stackexchange.com, chatgpt, or <a href="https://outlook.office365.com/owa/calendar/OnlineTutoring@NETORGFT15318614.onmicrosoft.com/bookings/">better yet me!</a> to find an answer, don't tell yourself you're stupid. Don't feel guilty for playing the game like everyone else. You're not a loser. You're winning! You are adapting to the environment that was laid out in front of you.  This isn't a single-player game. It's survival of the fittest. Unfortunately, you can't compete in this mind-building competition against other competitors and be full natty. You're going to lose lest you take performance enhancers. 
+Let's say you fail every single one of your classes in graduate school like I did. Let's say you never get an A in another math class again. 
 
-Asking for help is a type performance enhancer. Listen here, honey, the game is rigged. You're no less of a mathematician because you read Einstein than Einstein is less of a physicist for consulting all the mathematicians and physicists before him. And Albert got help from <i>a lot</i> of people. 
+Congratulations, you're no longer standard. In fact, you're below average. 
 
-You have the internet at your disposal now. You have an infinite supply of information. But you're not simply a computer, you can parse and interpret this information in ways that no one else can. That's why you're here. 
-
-So when you feel bad about asking for help, remember, everyone else did it too... and you're here to win. 
+Welcome to jtpmath. <a href="https://outlook.office365.com/owa/calendar/OnlineTutoring@NETORGFT15318614.onmicrosoft.com/bookings/">Let's get to know each other.</a>
