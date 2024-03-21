@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Functional Analysis
-description: Notes from Lax's Functional Analysis
-img:
-redirect: 
+title: functional analysis
+description: infinite dimensional vector and function spaces
+img: assets/img/FunctionalAnalysis.jpg
 importance: 4
-category: work
 giscus_comments: true
 related_publications: true
 ---
