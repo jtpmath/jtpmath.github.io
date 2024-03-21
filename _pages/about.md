@@ -15,7 +15,7 @@ news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 social: true # includes social icons at the bottom of the page
 ---
-My mission at JTPmath is to solve open problems in mathematics and display the solutions to you. To do this, requires work on my part, since there are many subjects I must parse and re-learn to come to more informed conlusions. 
+My mission at JTPmath is to solve problems in mathematics and display the solutions to you. To do this, requires work on my part, since there are many subjects I must parse and re-learn to come to more informed conlusions. 
 
 My interest in mathematics started when I failed linear algebra the first time. I was stuck on the word "kernel" for about two years after that. I just couldn't wrap my head around why they called it a kernel, so I knew I had to keep investigating. 
 
