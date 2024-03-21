@@ -22,6 +22,8 @@ horizontal: false
   <li>Lebesgue Measurable Functions</li>
 </ul>
 
+<h2 class="year">functional analysis</h2>
+
 <h2 class="year">homological algebra</h2>
 
 <h2 class="year">algebraic geometry (schemes)</h2>
