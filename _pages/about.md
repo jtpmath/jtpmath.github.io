@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 ---
 My mission at JTPmath is to solve problems in mathematics and display the solutions to you. To do this, requires work on my part, since there are many subjects I must parse and re-learn to come to more informed conlusions. 
 
-My interest in mathematics started when I failed linear algebra the first time. I was stuck on the word "kernel" for about two years after that. I just couldn't wrap my head around why they called it a kernel, so I knew I had to keep investigating. 
+My interest in mathematics started when I failed linear algebra. I was stuck on the word "kernel" for about two years after that. I just couldn't wrap my head around why they called it a kernel, so I knew I had to keep investigating. 
 
 Eventually I got to ring theory, where kernels began to make sense. It probably would have made even more sense if I would have seen group theory before linear algebra - or even at the same time - and then went on to rings, and then modules, and then vector spaces... actually, I should have just started with <a href="https://www.youtube.com/playlist?list=PLyDvtSibCRwzW1gu5ADtc-8K0h29_iYac">abelian categories</a>. 
 
