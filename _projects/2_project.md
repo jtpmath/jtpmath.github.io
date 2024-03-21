@@ -1,6 +1,7 @@
 ---
 layout: page
 title: abstract measure theory
+permalink: /abstractmeasures/
 description: constructing measures on abstract spaces, including the algebrao-geometric ones
 img: assets/img/3.jpg
 importance: 2
