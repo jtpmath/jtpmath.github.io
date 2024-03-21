@@ -21,7 +21,7 @@ My interest in abstract mathematics started after I dropped out of linear algebr
 
 Eventually I got to ring theory, where kernels began to make sense. It probably would have made even more sense if I would have seen group theory before linear algebra - or even at the same time - and then went on to rings, and then modules, and then vector spaces... actually, I should have just started with <a href="https://www.youtube.com/playlist?list=PLyDvtSibCRwzW1gu5ADtc-8K0h29_iYac">abelian categories</a>. 
 
-Eventually I went on to take advanced calculus. I didn't make the mistake of letting myself fail this time, but I was stuck on the word "manifold." I didn't see the word manifold until a couple of years later when I finally got to graduate school. I should have just started with differential topology. 
+Eventually I went on to take advanced calculus. I didn't make the mistake of quitting, but I was stuck on the word "manifold." I didn't see the word manifold until a couple of years later when I finally got to graduate school. I should have just started with differential topology. 
 
 Now I have this website, where I can start/end with whatever subject I want, and translate between whatever field I want, without someone lamenting "I was never good at math; I'm good at English", "I like algebra it makes sense, but analysis people think like this" or "sorry I only do applied mathematics I have no idea what a scheme is." Now there is no box to constrain my thought process and no box to constrain yours!
 
