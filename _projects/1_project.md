@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-description: Measure theory as it is explained by Professor Folland.
+title: elementary measure theory
+description: a light introduction to measure theory using elementary and jordan measurable sets
 img: 
 importance: 1
 permalink: /measuretheory/
