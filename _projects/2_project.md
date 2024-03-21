@@ -1,10 +1,9 @@
 ---
 layout: page
-title: 
-description: measure theory as it is explained by professor Tao
+title: abstract measure theory
+description: constructing measures on abstract spaces, including the algebrao-geometric ones
 img: assets/img/3.jpg
 importance: 2
-category: work
 giscus_comments: true
 related_publications: true
 ---
