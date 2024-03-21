@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-description: My first time taking measure theory from Folland's Real Analysis and Its Applications
+description: Measure theory as it is explained by Professor Folland.
 img: 
 importance: 1
 category: work
