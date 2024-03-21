@@ -1,8 +1,8 @@
 ---
 layout: page
-title: subjects
-permalink: /subjects/
-description: current lectures (in development)
+title: research
+permalink: /research/
+description: future research implementing course knowledge
 nav: true
 nav_order: 2
 horizontal: false
