@@ -1,5 +1,5 @@
 ---
-layout: faq
+layout: page
 title: faq
 permalink: /faq/
 nav: true
