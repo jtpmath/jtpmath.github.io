@@ -24,13 +24,15 @@ horizontal: false
 
 <h2 class="year">homological algebra</h2>
 
+<h2 class="year">algebraic geometry (schemes)</h2>
+
 <h2 class="year">lie groups and lie algebras</h2>
 
 <h2 class="year">stacks and moduli</h2>
 
 <h2 class="year">Étale cohomology</h2>
 
-<h2 class="year">analytic stacks</h2>
+<h2 class="year">condensed mathematics</h2>
 
 
 
