@@ -15,7 +15,7 @@ news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 social: true # includes social icons at the bottom of the page
 ---
-My mission at JTPmath is to solve problems in abstract mathematics and reveal the solutions to you. 
+JTPmath solves problems in abstract mathematics and dicusses solutions online.  
 
 My interest in abstract mathematics blossomed when I discovered linear algebra. I was stuck on the word "kernel" for about two years after that. I just couldn't wrap my head around why they called it a kernel, so I knew I had to keep investigating. 
 
