@@ -27,4 +27,14 @@ Now I have this website, where I can start/end with whatever subject I want, and
 
 But if you *had* to assign a label: my research interests are in analytic geometry, algebraic topology and complex analysis. 
 
-If you're curious, you can read us on [reddit](http://reddit.com/r/jtpmath).
+If you're curious, you can read us on [reddit](http://reddit.com/r/jtpmath). 
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('jtpmath', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Tip Me',
+    'floating-chat.donateButton.background-color': '#794bc4',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
