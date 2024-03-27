@@ -2,7 +2,7 @@
 layout: page
 title: courses
 permalink: /projects/
-description: 
+description: a non-exhaustive list
 nav: true
 nav_order: 3
 horizontal: false
